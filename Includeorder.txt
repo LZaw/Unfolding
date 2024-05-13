@@ -1,0 +1,20 @@
+
+#include "ThisHeader.h" / #pragma once
+
+// C++ Headers
+#include <C++ Headers>
+
+// Project Headers
+#include <Project Headers>
+
+// Eigen Headers
+#include <Eigen Headers>
+
+// Spectra Headers
+#include <Spectra Headers>
+
+// libIGL Headers
+#include <libIGL Headers>
+
+// QT Headers
+#include <QT Headers>

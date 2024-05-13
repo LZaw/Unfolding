@@ -1,0 +1,9 @@
+[submodule "external/Eigen"]
+	path = external/Eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "external/Spectra"]
+	path = external/Spectra
+	url = https://github.com/yixuan/spectra.git
+[submodule "external/libigl"]
+	path = external/libigl
+	url = https://github.com/libigl/libigl.git
