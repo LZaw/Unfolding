@@ -2,7 +2,7 @@
 
 This repository contains the code of the following papers:
 
-- **Unfolding Polyhedra via Tabu Search** (Accepted at TVCJ, link and references will follow)
+- [**Unfolding Polyhedra via Tabu Search**](https://doi.org/10.1007/s00371-024-03395-2) (The Visual Computer)
 - [**Unfolding via Mesh Approximation using Surface Flows**](https://doi.org/10.1111/cgf.15031) (Computer Graphics Forum, Vol. 43-2)
 - **TBA** (Code, links, and references will follow on acceptance)
 
